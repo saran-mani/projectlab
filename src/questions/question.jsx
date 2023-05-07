@@ -19,7 +19,7 @@ class GE3171 extends Component {
               motorbike, Weight of a steel bar, compute Electrical Current in
               Three Phase AC Circuit, etc.) <br />
               <Link to="GE3171-ans-1">
-                <span className="ans-btn">Ans</span>
+                <span className="ans-btn">An</span>
               </Link>
             </div>
             <div className="col-10">
