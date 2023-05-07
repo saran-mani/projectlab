@@ -1,0 +1,23 @@
+.container .row .col-10{
+    background-color: rgba(137, 43, 226, 0.247);
+    border: 2px solid rgba(132, 0, 255, 0.301);
+    border-radius: 3px;
+    margin: 10px;
+    padding: 10px;
+}
+.container .row .col-10{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.col-10 a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color:  rgba(132, 0, 255, 0.301);
+    padding: 3px;
+    border-radius: 5px;
+    border: 1px solid rgba(132, 0, 255, 0.301);
+    margin: 5px;
+}
+.col-10 a:hover{
+    color: white;
+}

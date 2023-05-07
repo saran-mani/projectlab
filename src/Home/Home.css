@@ -1,0 +1,9 @@
+.container .row .col-sm-6 div{
+    background-color: rgba(137, 43, 226, 0.247);
+    border: 2px solid rgba(132, 0, 255, 0.301);
+    border-radius: 3px;
+}
+.container .row .col-sm-6 a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
